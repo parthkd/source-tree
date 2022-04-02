@@ -1,7 +1,0 @@
-diff a/testfile.txt b/testfile.txt	(rejected hunks)
-@@ -1 +0,2 @@
--okay man
-\ No newline at end of file
-+okay man
-+hello
-\ No newline at end of file
