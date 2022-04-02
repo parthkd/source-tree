@@ -1,6 +1,1 @@
-okay man
-<<<<<<< HEAD
-hello
-=======
-started
->>>>>>> 449353f234829463c53cd3b38aeec2ac7080ad37
+chliye
